@@ -22,7 +22,7 @@ Contact : [Abdelwahed khamis](mailto:abdelwahed.khamis@data61.csiro.au) & [Sara 
 ---
 
 ## Notebooks
-- [Centralized Image Classification](./centralized.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdelwahed/fl_tutorial/blob/main/centralized.ipynb)
+- [Centralized Image Classification](./centralized.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdelwahed/fl_tutorial/blob/master/centralized.ipynb)
   - Image classification on CIFAR dataset using Pytorch. 
-- [Federated Learning Image Classification (CIFAR-10)](./FL_1.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdelwahed/fl_tutorial/blob/main/FL_1.ipynb)
+- [Federated Learning Image Classification (CIFAR-10)](./FL_1.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abdelwahed/fl_tutorial/blob/master/FL_1.ipynb)
 
