@@ -15,10 +15,16 @@ Contact : [Abdelwahed khamis](mailto:abdelwahed.khamis@data61.csiro.au) & [Sara 
     ```shell
     conda install -c conda-forge flower
     ```
-- **Online Notebook**. Just click the "Open in Colab" button below and it will launch it in Google Collab. Ensure that yu run the cell with the command below to install requirements
+- **Online Notebook**. Just click the "Open in Colab" button below and it will launch it in Google Collab. Ensure that you run the cell with the command below to install requirements
     ```shell
     pip install -q flwr[simulation] torch torchvision matplotlib
     ```
+  - **GPU acceleration on Collab** : Runtime > Change runtime type > Hardware acclerator: GPU > Save).  
+  - If you see an error related to GPU availability in one of the following sections, consider switching back to CPU-based execution by setting DEVICE = torch.device("cpu"). 
+
+
+
+
 ---
 
 ## Notebooks
