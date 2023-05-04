@@ -4,6 +4,10 @@
 Federated learning tutorial given as part of the UQ course on [Advanced Embedded Systems CSSE4011](https://my.uq.edu.au/programs-courses/course.html?course_code=CSSE4011).  
 In this tutorial we use [Flower](https://flower.dev/) and [Pytorch](https://pytorch.org/) frameworks.
 
+[<img class="aligncenter" style="width:800px" src="imgs/pres.png"/>](/presentation/lecture.pdf) 
+
+
+---
 <img class="aligncenter" style="width:100px" src="imgs/data61-logo.png"/> 
 
 Contact : [Abdelwahed khamis](mailto:abdelwahed.khamis@data61.csiro.au) & [Sara Khalifa](mailto:abdelwahed.khamis@data61.csiro.au) 
